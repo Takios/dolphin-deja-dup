@@ -1,5 +1,6 @@
 # dolphin-deja-dup
-Provides action menus for deja-dups revert and restore functions
+Provides action menu entries for deja-dups revert and restore functions in
+Dolphin
 
 # Prerequisites
 * deja-dup (duh)
