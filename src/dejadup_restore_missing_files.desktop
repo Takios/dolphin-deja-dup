@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=inode/directory
+Actions=DejaDupRestoreMissingFiles
+[Desktop Action DejaDupRestoreMissingFiles]
+Name=Restore missing files
+Name[de]=Fehlende Dateien wiederherstellen
+Name[eo]=Restarigi Mankantaj dosieroj
+Name[fr]=Restaurer les fichiers manquants
+Name[ja]=見つからないファイルを復元
+Icon=deja-dup
+Exec=deja-dup --restore-missing "%U"

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=application/octet-stream
+Actions=DejaDupRestoreFile
+[Desktop Action DejaDupRestoreFile]
+Name=Revert to previous version
+Name[de]=Zu vorheriger Version zurücksetzen
+Name[eo]=Restarigu antaŭan version
+Name[fr]=Revenir à la version précédente
+Icon=deja-dup
+Exec=deja-dup --restore "%U"
