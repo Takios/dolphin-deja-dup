@@ -9,5 +9,6 @@ Name[de]=Fehlende Dateien wiederherstellen
 Name[eo]=Restarigi Mankantaj dosieroj
 Name[fr]=Restaurer les fichiers manquants
 Name[ja]=見つからないファイルを復元
+Name[sl]=Obnovi manjkajoče datoteke
 Icon=deja-dup
 Exec=deja-dup --restore-missing "%U"
