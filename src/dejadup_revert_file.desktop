@@ -8,5 +8,6 @@ Name=Revert to previous version
 Name[de]=Zu vorheriger Version zurücksetzen
 Name[eo]=Restarigu antaŭan version
 Name[fr]=Revenir à la version précédente
+Name[sl]=Povrni v prejšnjo različico
 Icon=deja-dup
 Exec=deja-dup --restore "%U"
