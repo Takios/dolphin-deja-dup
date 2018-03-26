@@ -10,5 +10,6 @@ Name[eo]=Restarigi Mankantaj dosieroj
 Name[fr]=Restaurer les fichiers manquants
 Name[ja]=見つからないファイルを復元
 Name[sl]=Obnovi manjkajoče datoteke
+Name[it]=Recupera file mancanti
 Icon=org.gnome.DejaDup
 Exec=deja-dup --restore-missing "%U"

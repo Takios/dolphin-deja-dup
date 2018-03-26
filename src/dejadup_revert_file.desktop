@@ -9,5 +9,6 @@ Name[de]=Zu vorheriger Version zurücksetzen
 Name[eo]=Restarigu antaŭan version
 Name[fr]=Revenir à la version précédente
 Name[sl]=Povrni v prejšnjo različico
+Name[it]=Ritorna alla versione precedente
 Icon=org.gnome.DejaDup
 Exec=deja-dup --restore "%U"
