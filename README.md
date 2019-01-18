@@ -19,6 +19,19 @@ make install
 
 Dolphin needs to be restarted now.
 
+## Install manually
+
+- KDE 5, user profile: 
+  ```
+  mkdir -p ~/.local/share/kservices5/ServiceMenus && cp src/* ~/.local/share/kservices5/ServiceMenus
+  ```
+- KDE 5, system wide: 
+  ```
+  sudo cp src/* /usr/share/kservices5/ServiceMenus
+  ```
+
+Restart Dolphin to make it work.
+
 # Remove
 
 Switch to the folder with the Makefile and execute the following:
