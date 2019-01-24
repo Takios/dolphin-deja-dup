@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Service
 ServiceTypes=KonqPopupMenu/Plugin
-MimeType=application/octet-stream
+MimeType=inode/directory;application/octet-stream
 Actions=DejaDupRestoreFile
 [Desktop Action DejaDupRestoreFile]
 Name=Revert to previous version
